@@ -6,6 +6,6 @@ To delete your Maerino account and all associated data:
 2. Go to Account → Delete account.
 3. Confirm with your password.
 
-Alternatively, email support@<yourdomain or gmail> with the
+Alternatively, email support@maerino.com with the
 subject line "Delete my account" from the email address registered
 to your account. We'll process the request within 30 days.
